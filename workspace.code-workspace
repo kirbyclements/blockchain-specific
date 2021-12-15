@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "blockchain-specific",
+			"path": "."
+		},
+		{
+			"path": "../../Documents/IBM/SOASecure/IBM_ALL/XML_XSL_WSDL_XSD_ANT_PY_BASH"
+		}
+	]
+}
